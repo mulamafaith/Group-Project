@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project_data>
+  <team_members>
+    <member>
+      <name>Faith Mulama</name>
+      <role>Team Lead</role>
+      <email>faithmulama@gmail.com</email>
+    </member>
+    <member>
+      <name>Farida Selima</name>
+      <role>Developer</role>
+      <email>faridaashraf2006@gmail.com</email>
+    </member>
+  </team_members>
+  <project_details>
+    <title>Computer Science Ecosystems Group Project</title>
+    <description>This project aims to equip foundation students with practical skills in Front-End Web Development, document typesetting, and data management.</description>
+    <start_date>2024-07-03</start_date>
+    <end_date>2024-07-11</end_date>
+  </project_details>
+  <technologies_used>
+    <technology>
+      <name>HTML</name>
+      <version>5</version>
+    </technology>
+    <technology>
+      <name>CSS</name>
+      <version>3</version>
+    </technology>
+    <technology>
+      <name>JavaScript</name>
+      <version>ES6</version>
+    </technology>
+    <technology>
+      <name>LaTeX</name>
+      <version>2e</version>
+    </technology>
+    <technology>
+      <name>XML</name>
+      <version>1.0</version>
+    </technology>
+  </technologies_used>
+  <deliverables>
+    <deliverable>
+      <name>HTML Webpage</name>
+      <description>A basic HTML webpage featuring a form with CSS styling.HTML webpage features a form that allows users to input data, which is then processed and displayed using JavaScript. We used CSS to style the webpage, making it visually appealing and easy to use.</description>
+    </deliverable>
+    <deliverable>
+      <name>CSS Stylesheet</name>
+      <description>A CSS stylesheet that provides responsive design for the HTML webpage</description>
+    </deliverable>
+    <deliverable>
+      <name>JavaScript Functionality</name>
+      <description>JavaScript code that handles data submissions using the Fetch API.developed functionality using the JavaScript Fetch API to handle data submissions, emphasizing collaborative coding and problem-solving. This allowed us to create a dynamic and interactive webpage that responds to user input.</description>
+    </deliverable>
+    <deliverable>
+      <name>LaTeX Document</name>
+      <description>A LaTeX document that details the project's scope and findings.document was created as a team, detailing the project's scope and findings. We prepared the document with input from all team members, ensuring each section reflects the collaborative effort and understanding of the content.</description>
+    </deliverable>
+    <deliverable>
+      <name>XML Document</name>
+      <description>An XML document that represents structured data in a detailed and organized manner</description>
+    </deliverable>
+  </deliverables>
+</project_data>
